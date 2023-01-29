@@ -1,0 +1,18 @@
+/* Estilos generales */
+.icon-white {
+	color: white;
+ }
+ .seccion-titulo {
+	font-size: 2rem;
+	padding: 15px 0;
+	font-family: 'Rubik Dirt', cursive;
+} 
+ 
+ /* Barra de navegacion */
+
+.navbar-collapse{
+	align-items: center;
+	justify-content: space-between;
+}
+
+
